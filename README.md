@@ -1,6 +1,8 @@
-#npm
+# Woosung farm cafe
 
-## server
+## npm
+
+### server
 
 ```
 1. npm install express-generator -g
@@ -10,6 +12,6 @@
     - npm i
 ```
 
-## client
+### client
 ```
 2. npm install -g @vue/cli
